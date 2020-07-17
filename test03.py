@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QMenu
 from PyQt5.QtCore import Qt
 
 
+
 class MyApp(QWidget):
 
     def __init__(self):

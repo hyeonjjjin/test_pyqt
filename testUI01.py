@@ -25,6 +25,7 @@ class MyWindow(QMainWindow, form_class):
         self.popupbutton.setMenu(menu)
 
 
+
 class MyWindow2(QMainWindow, form_class2):
     def __init__(self):
         super().__init__()

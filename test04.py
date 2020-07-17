@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, QTextEdit
 , QLineEdit, QTextBrowser, QPushButton, QVBoxLayout, QHBoxLayout)
 
 
+
 class MyApp(QWidget):
 
     def __init__(self):

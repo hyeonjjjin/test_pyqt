@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QLineEdit, QProgressBar, QSlider, QDial, QDoubleSpin
 from PyQt5.QtGui import QIcon, QFont, QPixmap
 from PyQt5.QtCore import Qt, QBasicTimer
 
+
 class MyWidget(QWidget):
     def __init__(self):
         super().__init__()
